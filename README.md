@@ -3,10 +3,10 @@
 windows系统、visual studio 2019、C++ 17及以上、QT 5以上
 ## 依赖库安装：
 1. OpenSSL库：
-安装地址：http://slproweb.com/products/Win32OpenSSL.html
-具体安装过程：https://blog.csdn.net/zyhse/article/details/108186278
+安装地址：http://slproweb.com/products/Win32OpenSSL.html  
+具体安装过程：https://blog.csdn.net/zyhse/article/details/108186278  
 将OpenSSL-Win64文件夹加到该项目中
-2. msvc2019_64库：
+3. msvc2019_64库：
 找到QT所在目录，将E:\Qt\6.6.1\msvc2019_64文件夹复制到该项目中
 ## 环境变量设置：
 将 .../msvc2019_64/bin 放到系统环境变量中
