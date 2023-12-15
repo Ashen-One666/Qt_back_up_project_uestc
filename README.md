@@ -1,6 +1,6 @@
 # Qt_back_up_project_uestc
 ## 说明：
-电子科技大学软件开发综合实验_文件备份系统
+电子科技大学软件开发综合实验 文件备份系统
 ## 环境配置：
 windows系统、visual studio 2019、C++ 17及以上、QT 5以上
 ## QT 安装:
